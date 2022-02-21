@@ -1,1 +1,1 @@
-web: gunicom project12.wsgi --log-file -
+web: gunicorn project12.wsgi --log-file -
